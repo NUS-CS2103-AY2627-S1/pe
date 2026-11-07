@@ -1,0 +1,904 @@
+{
+  "equipment": [
+    {
+      "id": "EQ001",
+      "name": "Wireless Microphone 001",
+      "status": "AVAILABLE",
+      "issuedTo": null
+    },
+    {
+      "id": "EQ002",
+      "name": "Lighting Stand 002",
+      "status": "AVAILABLE",
+      "issuedTo": null
+    },
+    {
+      "id": "EQ003",
+      "name": "Audio Cable Set 003",
+      "status": "AVAILABLE",
+      "issuedTo": null
+    },
+    {
+      "id": "EQ004",
+      "name": "Power Adapter 004",
+      "status": "AVAILABLE",
+      "issuedTo": null
+    },
+    {
+      "id": "EQ005",
+      "name": "Display Monitor 005",
+      "status": "AVAILABLE",
+      "issuedTo": null
+    },
+    {
+      "id": "EQ006",
+      "name": "Wireless Microphone 006",
+      "status": "AVAILABLE",
+      "issuedTo": null
+    },
+    {
+      "id": "EQ007",
+      "name": "Lighting Stand 007",
+      "status": "AVAILABLE",
+      "issuedTo": null
+    },
+    {
+      "id": "EQ008",
+      "name": "Audio Cable Set 008",
+      "status": "AVAILABLE",
+      "issuedTo": null
+    },
+    {
+      "id": "EQ009",
+      "name": "Power Adapter 009",
+      "status": "AVAILABLE",
+      "issuedTo": null
+    },
+    {
+      "id": "EQ010",
+      "name": "Display Monitor 010",
+      "status": "AVAILABLE",
+      "issuedTo": null
+    },
+    {
+      "id": "EQ011",
+      "name": "Wireless Microphone 011",
+      "status": "AVAILABLE",
+      "issuedTo": null
+    },
+    {
+      "id": "EQ012",
+      "name": "Lighting Stand 012",
+      "status": "AVAILABLE",
+      "issuedTo": null
+    },
+    {
+      "id": "EQ013",
+      "name": "Audio Cable Set 013",
+      "status": "AVAILABLE",
+      "issuedTo": null
+    },
+    {
+      "id": "EQ014",
+      "name": "Power Adapter 014",
+      "status": "AVAILABLE",
+      "issuedTo": null
+    },
+    {
+      "id": "EQ015",
+      "name": "Display Monitor 015",
+      "status": "AVAILABLE",
+      "issuedTo": null
+    },
+    {
+      "id": "EQ016",
+      "name": "Wireless Microphone 016",
+      "status": "AVAILABLE",
+      "issuedTo": null
+    },
+    {
+      "id": "EQ017",
+      "name": "Lighting Stand 017",
+      "status": "AVAILABLE",
+      "issuedTo": null
+    },
+    {
+      "id": "EQ018",
+      "name": "Audio Cable Set 018",
+      "status": "AVAILABLE",
+      "issuedTo": null
+    },
+    {
+      "id": "EQ019",
+      "name": "Power Adapter 019",
+      "status": "AVAILABLE",
+      "issuedTo": null
+    },
+    {
+      "id": "EQ020",
+      "name": "Display Monitor 020",
+      "status": "AVAILABLE",
+      "issuedTo": null
+    },
+    {
+      "id": "EQ021",
+      "name": "Wireless Microphone 021",
+      "status": "AVAILABLE",
+      "issuedTo": null
+    },
+    {
+      "id": "EQ022",
+      "name": "Lighting Stand 022",
+      "status": "AVAILABLE",
+      "issuedTo": null
+    },
+    {
+      "id": "EQ023",
+      "name": "Audio Cable Set 023",
+      "status": "AVAILABLE",
+      "issuedTo": null
+    },
+    {
+      "id": "EQ024",
+      "name": "Power Adapter 024",
+      "status": "AVAILABLE",
+      "issuedTo": null
+    },
+    {
+      "id": "EQ025",
+      "name": "Display Monitor 025",
+      "status": "AVAILABLE",
+      "issuedTo": null
+    },
+    {
+      "id": "EQ026",
+      "name": "Wireless Microphone 026",
+      "status": "AVAILABLE",
+      "issuedTo": null
+    },
+    {
+      "id": "EQ027",
+      "name": "Lighting Stand 027",
+      "status": "AVAILABLE",
+      "issuedTo": null
+    },
+    {
+      "id": "EQ028",
+      "name": "Audio Cable Set 028",
+      "status": "AVAILABLE",
+      "issuedTo": null
+    },
+    {
+      "id": "EQ029",
+      "name": "Power Adapter 029",
+      "status": "AVAILABLE",
+      "issuedTo": null
+    },
+    {
+      "id": "EQ030",
+      "name": "Display Monitor 030",
+      "status": "AVAILABLE",
+      "issuedTo": null
+    },
+    {
+      "id": "EQ031",
+      "name": "Wireless Microphone 031",
+      "status": "AVAILABLE",
+      "issuedTo": null
+    },
+    {
+      "id": "EQ032",
+      "name": "Lighting Stand 032",
+      "status": "AVAILABLE",
+      "issuedTo": null
+    },
+    {
+      "id": "EQ033",
+      "name": "Audio Cable Set 033",
+      "status": "AVAILABLE",
+      "issuedTo": null
+    },
+    {
+      "id": "EQ034",
+      "name": "Power Adapter 034",
+      "status": "AVAILABLE",
+      "issuedTo": null
+    },
+    {
+      "id": "EQ035",
+      "name": "Display Monitor 035",
+      "status": "AVAILABLE",
+      "issuedTo": null
+    },
+    {
+      "id": "EQ036",
+      "name": "Wireless Microphone 036",
+      "status": "AVAILABLE",
+      "issuedTo": null
+    },
+    {
+      "id": "EQ037",
+      "name": "Lighting Stand 037",
+      "status": "AVAILABLE",
+      "issuedTo": null
+    },
+    {
+      "id": "EQ038",
+      "name": "Audio Cable Set 038",
+      "status": "AVAILABLE",
+      "issuedTo": null
+    },
+    {
+      "id": "EQ039",
+      "name": "Power Adapter 039",
+      "status": "AVAILABLE",
+      "issuedTo": null
+    },
+    {
+      "id": "EQ040",
+      "name": "Display Monitor 040",
+      "status": "AVAILABLE",
+      "issuedTo": null
+    },
+    {
+      "id": "EQ041",
+      "name": "Wireless Microphone 041",
+      "status": "AVAILABLE",
+      "issuedTo": null
+    },
+    {
+      "id": "EQ042",
+      "name": "Lighting Stand 042",
+      "status": "AVAILABLE",
+      "issuedTo": null
+    },
+    {
+      "id": "EQ043",
+      "name": "Audio Cable Set 043",
+      "status": "AVAILABLE",
+      "issuedTo": null
+    },
+    {
+      "id": "EQ044",
+      "name": "Power Adapter 044",
+      "status": "AVAILABLE",
+      "issuedTo": null
+    },
+    {
+      "id": "EQ045",
+      "name": "Display Monitor 045",
+      "status": "AVAILABLE",
+      "issuedTo": null
+    },
+    {
+      "id": "EQ046",
+      "name": "Wireless Microphone 046",
+      "status": "AVAILABLE",
+      "issuedTo": null
+    },
+    {
+      "id": "EQ047",
+      "name": "Lighting Stand 047",
+      "status": "AVAILABLE",
+      "issuedTo": null
+    },
+    {
+      "id": "EQ048",
+      "name": "Audio Cable Set 048",
+      "status": "AVAILABLE",
+      "issuedTo": null
+    },
+    {
+      "id": "EQ049",
+      "name": "Power Adapter 049",
+      "status": "AVAILABLE",
+      "issuedTo": null
+    },
+    {
+      "id": "EQ050",
+      "name": "Display Monitor 050",
+      "status": "AVAILABLE",
+      "issuedTo": null
+    },
+    {
+      "id": "EQ051",
+      "name": "Wireless Microphone 051",
+      "status": "AVAILABLE",
+      "issuedTo": null
+    },
+    {
+      "id": "EQ052",
+      "name": "Lighting Stand 052",
+      "status": "AVAILABLE",
+      "issuedTo": null
+    },
+    {
+      "id": "EQ053",
+      "name": "Audio Cable Set 053",
+      "status": "AVAILABLE",
+      "issuedTo": null
+    },
+    {
+      "id": "EQ054",
+      "name": "Power Adapter 054",
+      "status": "AVAILABLE",
+      "issuedTo": null
+    },
+    {
+      "id": "EQ055",
+      "name": "Display Monitor 055",
+      "status": "AVAILABLE",
+      "issuedTo": null
+    },
+    {
+      "id": "EQ056",
+      "name": "Wireless Microphone 056",
+      "status": "AVAILABLE",
+      "issuedTo": null
+    },
+    {
+      "id": "EQ057",
+      "name": "Lighting Stand 057",
+      "status": "AVAILABLE",
+      "issuedTo": null
+    },
+    {
+      "id": "EQ058",
+      "name": "Audio Cable Set 058",
+      "status": "AVAILABLE",
+      "issuedTo": null
+    },
+    {
+      "id": "EQ059",
+      "name": "Power Adapter 059",
+      "status": "AVAILABLE",
+      "issuedTo": null
+    },
+    {
+      "id": "EQ060",
+      "name": "Display Monitor 060",
+      "status": "AVAILABLE",
+      "issuedTo": null
+    },
+    {
+      "id": "EQ061",
+      "name": "Wireless Microphone 061",
+      "status": "AVAILABLE",
+      "issuedTo": null
+    },
+    {
+      "id": "EQ062",
+      "name": "Lighting Stand 062",
+      "status": "AVAILABLE",
+      "issuedTo": null
+    },
+    {
+      "id": "EQ063",
+      "name": "Audio Cable Set 063",
+      "status": "AVAILABLE",
+      "issuedTo": null
+    },
+    {
+      "id": "EQ064",
+      "name": "Power Adapter 064",
+      "status": "AVAILABLE",
+      "issuedTo": null
+    },
+    {
+      "id": "EQ065",
+      "name": "Display Monitor 065",
+      "status": "AVAILABLE",
+      "issuedTo": null
+    },
+    {
+      "id": "EQ066",
+      "name": "Wireless Microphone 066",
+      "status": "AVAILABLE",
+      "issuedTo": null
+    },
+    {
+      "id": "EQ067",
+      "name": "Lighting Stand 067",
+      "status": "AVAILABLE",
+      "issuedTo": null
+    },
+    {
+      "id": "EQ068",
+      "name": "Audio Cable Set 068",
+      "status": "AVAILABLE",
+      "issuedTo": null
+    },
+    {
+      "id": "EQ069",
+      "name": "Power Adapter 069",
+      "status": "AVAILABLE",
+      "issuedTo": null
+    },
+    {
+      "id": "EQ070",
+      "name": "Display Monitor 070",
+      "status": "AVAILABLE",
+      "issuedTo": null
+    },
+    {
+      "id": "EQ071",
+      "name": "Wireless Microphone 071",
+      "status": "AVAILABLE",
+      "issuedTo": null
+    },
+    {
+      "id": "EQ072",
+      "name": "Lighting Stand 072",
+      "status": "AVAILABLE",
+      "issuedTo": null
+    },
+    {
+      "id": "EQ073",
+      "name": "Audio Cable Set 073",
+      "status": "AVAILABLE",
+      "issuedTo": null
+    },
+    {
+      "id": "EQ074",
+      "name": "Power Adapter 074",
+      "status": "AVAILABLE",
+      "issuedTo": null
+    },
+    {
+      "id": "EQ075",
+      "name": "Display Monitor 075",
+      "status": "AVAILABLE",
+      "issuedTo": null
+    },
+    {
+      "id": "EQ076",
+      "name": "Wireless Microphone 076",
+      "status": "AVAILABLE",
+      "issuedTo": null
+    },
+    {
+      "id": "EQ077",
+      "name": "Lighting Stand 077",
+      "status": "AVAILABLE",
+      "issuedTo": null
+    },
+    {
+      "id": "EQ078",
+      "name": "Audio Cable Set 078",
+      "status": "AVAILABLE",
+      "issuedTo": null
+    },
+    {
+      "id": "EQ079",
+      "name": "Power Adapter 079",
+      "status": "AVAILABLE",
+      "issuedTo": null
+    },
+    {
+      "id": "EQ080",
+      "name": "Display Monitor 080",
+      "status": "AVAILABLE",
+      "issuedTo": null
+    },
+    {
+      "id": "EQ081",
+      "name": "Wireless Microphone 081",
+      "status": "AVAILABLE",
+      "issuedTo": null
+    },
+    {
+      "id": "EQ082",
+      "name": "Lighting Stand 082",
+      "status": "AVAILABLE",
+      "issuedTo": null
+    },
+    {
+      "id": "EQ083",
+      "name": "Audio Cable Set 083",
+      "status": "AVAILABLE",
+      "issuedTo": null
+    },
+    {
+      "id": "EQ084",
+      "name": "Power Adapter 084",
+      "status": "AVAILABLE",
+      "issuedTo": null
+    },
+    {
+      "id": "EQ085",
+      "name": "Display Monitor 085",
+      "status": "AVAILABLE",
+      "issuedTo": null
+    },
+    {
+      "id": "EQ086",
+      "name": "Wireless Microphone 086",
+      "status": "AVAILABLE",
+      "issuedTo": null
+    },
+    {
+      "id": "EQ087",
+      "name": "Lighting Stand 087",
+      "status": "AVAILABLE",
+      "issuedTo": null
+    },
+    {
+      "id": "EQ088",
+      "name": "Audio Cable Set 088",
+      "status": "AVAILABLE",
+      "issuedTo": null
+    },
+    {
+      "id": "EQ089",
+      "name": "Power Adapter 089",
+      "status": "AVAILABLE",
+      "issuedTo": null
+    },
+    {
+      "id": "EQ090",
+      "name": "Display Monitor 090",
+      "status": "AVAILABLE",
+      "issuedTo": null
+    },
+    {
+      "id": "EQ091",
+      "name": "Wireless Microphone 091",
+      "status": "AVAILABLE",
+      "issuedTo": null
+    },
+    {
+      "id": "EQ092",
+      "name": "Lighting Stand 092",
+      "status": "AVAILABLE",
+      "issuedTo": null
+    },
+    {
+      "id": "EQ093",
+      "name": "Audio Cable Set 093",
+      "status": "AVAILABLE",
+      "issuedTo": null
+    },
+    {
+      "id": "EQ094",
+      "name": "Power Adapter 094",
+      "status": "AVAILABLE",
+      "issuedTo": null
+    },
+    {
+      "id": "EQ095",
+      "name": "Display Monitor 095",
+      "status": "AVAILABLE",
+      "issuedTo": null
+    },
+    {
+      "id": "EQ096",
+      "name": "Wireless Microphone 096",
+      "status": "AVAILABLE",
+      "issuedTo": null
+    },
+    {
+      "id": "EQ097",
+      "name": "Lighting Stand 097",
+      "status": "AVAILABLE",
+      "issuedTo": null
+    },
+    {
+      "id": "EQ098",
+      "name": "Audio Cable Set 098",
+      "status": "AVAILABLE",
+      "issuedTo": null
+    },
+    {
+      "id": "EQ099",
+      "name": "Power Adapter 099",
+      "status": "AVAILABLE",
+      "issuedTo": null
+    },
+    {
+      "id": "EQ100",
+      "name": "Display Monitor 100",
+      "status": "AVAILABLE",
+      "issuedTo": null
+    },
+    {
+      "id": "EQ101",
+      "name": "Wireless Microphone 101",
+      "status": "AVAILABLE",
+      "issuedTo": null
+    },
+    {
+      "id": "EQ102",
+      "name": "Lighting Stand 102",
+      "status": "AVAILABLE",
+      "issuedTo": null
+    },
+    {
+      "id": "EQ103",
+      "name": "Audio Cable Set 103",
+      "status": "AVAILABLE",
+      "issuedTo": null
+    },
+    {
+      "id": "EQ104",
+      "name": "Power Adapter 104",
+      "status": "AVAILABLE",
+      "issuedTo": null
+    },
+    {
+      "id": "EQ105",
+      "name": "Display Monitor 105",
+      "status": "AVAILABLE",
+      "issuedTo": null
+    },
+    {
+      "id": "EQ106",
+      "name": "Wireless Microphone 106",
+      "status": "AVAILABLE",
+      "issuedTo": null
+    },
+    {
+      "id": "EQ107",
+      "name": "Lighting Stand 107",
+      "status": "AVAILABLE",
+      "issuedTo": null
+    },
+    {
+      "id": "EQ108",
+      "name": "Audio Cable Set 108",
+      "status": "AVAILABLE",
+      "issuedTo": null
+    },
+    {
+      "id": "EQ109",
+      "name": "Power Adapter 109",
+      "status": "AVAILABLE",
+      "issuedTo": null
+    },
+    {
+      "id": "EQ110",
+      "name": "Display Monitor 110",
+      "status": "AVAILABLE",
+      "issuedTo": null
+    },
+    {
+      "id": "EQ111",
+      "name": "Wireless Microphone 111",
+      "status": "AVAILABLE",
+      "issuedTo": null
+    },
+    {
+      "id": "EQ112",
+      "name": "Lighting Stand 112",
+      "status": "AVAILABLE",
+      "issuedTo": null
+    },
+    {
+      "id": "EQ113",
+      "name": "Audio Cable Set 113",
+      "status": "AVAILABLE",
+      "issuedTo": null
+    },
+    {
+      "id": "EQ114",
+      "name": "Power Adapter 114",
+      "status": "AVAILABLE",
+      "issuedTo": null
+    },
+    {
+      "id": "EQ115",
+      "name": "Display Monitor 115",
+      "status": "AVAILABLE",
+      "issuedTo": null
+    },
+    {
+      "id": "EQ116",
+      "name": "Wireless Microphone 116",
+      "status": "AVAILABLE",
+      "issuedTo": null
+    },
+    {
+      "id": "EQ117",
+      "name": "Lighting Stand 117",
+      "status": "AVAILABLE",
+      "issuedTo": null
+    },
+    {
+      "id": "EQ118",
+      "name": "Audio Cable Set 118",
+      "status": "AVAILABLE",
+      "issuedTo": null
+    },
+    {
+      "id": "EQ119",
+      "name": "Power Adapter 119",
+      "status": "AVAILABLE",
+      "issuedTo": null
+    },
+    {
+      "id": "EQ120",
+      "name": "Display Monitor 120",
+      "status": "AVAILABLE",
+      "issuedTo": null
+    },
+    {
+      "id": "EQ121",
+      "name": "Wireless Microphone 121",
+      "status": "AVAILABLE",
+      "issuedTo": null
+    },
+    {
+      "id": "EQ122",
+      "name": "Lighting Stand 122",
+      "status": "AVAILABLE",
+      "issuedTo": null
+    },
+    {
+      "id": "EQ123",
+      "name": "Audio Cable Set 123",
+      "status": "AVAILABLE",
+      "issuedTo": null
+    },
+    {
+      "id": "EQ124",
+      "name": "Power Adapter 124",
+      "status": "AVAILABLE",
+      "issuedTo": null
+    },
+    {
+      "id": "EQ125",
+      "name": "Display Monitor 125",
+      "status": "AVAILABLE",
+      "issuedTo": null
+    },
+    {
+      "id": "EQ126",
+      "name": "Wireless Microphone 126",
+      "status": "AVAILABLE",
+      "issuedTo": null
+    },
+    {
+      "id": "EQ127",
+      "name": "Lighting Stand 127",
+      "status": "AVAILABLE",
+      "issuedTo": null
+    },
+    {
+      "id": "EQ128",
+      "name": "Sony Alpha Camera",
+      "status": "AVAILABLE",
+      "issuedTo": null
+    },
+    {
+      "id": "EQ129",
+      "name": "Power Adapter 129",
+      "status": "AVAILABLE",
+      "issuedTo": null
+    },
+    {
+      "id": "EQ130",
+      "name": "Display Monitor 130",
+      "status": "AVAILABLE",
+      "issuedTo": null
+    },
+    {
+      "id": "EQ131",
+      "name": "Wireless Microphone 131",
+      "status": "AVAILABLE",
+      "issuedTo": null
+    },
+    {
+      "id": "EQ132",
+      "name": "Lighting Stand 132",
+      "status": "AVAILABLE",
+      "issuedTo": null
+    },
+    {
+      "id": "EQ133",
+      "name": "Audio Cable Set 133",
+      "status": "AVAILABLE",
+      "issuedTo": null
+    },
+    {
+      "id": "EQ134",
+      "name": "Power Adapter 134",
+      "status": "AVAILABLE",
+      "issuedTo": null
+    },
+    {
+      "id": "EQ135",
+      "name": "Display Monitor 135",
+      "status": "AVAILABLE",
+      "issuedTo": null
+    },
+    {
+      "id": "EQ136",
+      "name": "Wireless Microphone 136",
+      "status": "AVAILABLE",
+      "issuedTo": null
+    },
+    {
+      "id": "EQ137",
+      "name": "Lighting Stand 137",
+      "status": "AVAILABLE",
+      "issuedTo": null
+    },
+    {
+      "id": "EQ138",
+      "name": "Audio Cable Set 138",
+      "status": "AVAILABLE",
+      "issuedTo": null
+    },
+    {
+      "id": "EQ139",
+      "name": "Power Adapter 139",
+      "status": "AVAILABLE",
+      "issuedTo": null
+    },
+    {
+      "id": "EQ140",
+      "name": "Display Monitor 140",
+      "status": "AVAILABLE",
+      "issuedTo": null
+    },
+    {
+      "id": "EQ141",
+      "name": "Wireless Microphone 141",
+      "status": "AVAILABLE",
+      "issuedTo": null
+    },
+    {
+      "id": "EQ142",
+      "name": "Lighting Stand 142",
+      "status": "AVAILABLE",
+      "issuedTo": null
+    },
+    {
+      "id": "EQ143",
+      "name": "Audio Cable Set 143",
+      "status": "AVAILABLE",
+      "issuedTo": null
+    },
+    {
+      "id": "EQ144",
+      "name": "Power Adapter 144",
+      "status": "AVAILABLE",
+      "issuedTo": null
+    },
+    {
+      "id": "EQ145",
+      "name": "Display Monitor 145",
+      "status": "AVAILABLE",
+      "issuedTo": null
+    },
+    {
+      "id": "EQ146",
+      "name": "Wireless Microphone 146",
+      "status": "AVAILABLE",
+      "issuedTo": null
+    },
+    {
+      "id": "EQ147",
+      "name": "Lighting Stand 147",
+      "status": "AVAILABLE",
+      "issuedTo": null
+    },
+    {
+      "id": "EQ148",
+      "name": "Audio Cable Set 148",
+      "status": "AVAILABLE",
+      "issuedTo": null
+    },
+    {
+      "id": "EQ149",
+      "name": "Power Adapter 149",
+      "status": "AVAILABLE",
+      "issuedTo": null
+    },
+    {
+      "id": "EQ150",
+      "name": "Display Monitor 150",
+      "status": "AVAILABLE",
+      "issuedTo": null
+    }
+  ]
+}

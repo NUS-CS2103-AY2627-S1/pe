@@ -1,0 +1,25 @@
+{
+  "persons" : [ {
+    "name" : "Alex Tan",
+    "phone" : "91234567",
+    "email" : "alex.cs@example.com",
+    "address" : "PGPR",
+    "major" : "Computer Science",
+    "graduationYear" : "2027",
+    "tags" : [ "CS2103T" ],
+    "notes" : "",
+    "favourite" : false,
+    "lastUpdated" : "2026-11-06"
+  }, {
+    "name" : "Sarah Lim",
+    "phone" : "92345678",
+    "email" : "sarah@example.com",
+    "address" : "Unknown",
+    "major" : "Computing",
+    "graduationYear" : "2027",
+    "tags" : [ "CS2103T" ],
+    "notes" : "",
+    "favourite" : false,
+    "lastUpdated" : "2026-11-06"
+  } ]
+}

@@ -1,0 +1,99 @@
+Nov 06, 2026 6:54:18 PM com.sun.javafx.application.PlatformImpl startup
+WARNING: Unsupported JavaFX configuration: classes were loaded from 'unnamed module @1e04fa0a'
+WARNING: A restricted method in java.lang.System has been called
+WARNING: java.lang.System::load has been called by com.sun.glass.utils.NativeLibLoader in an unnamed module (file:/home/dhruv/dev/NUS/2103T/files-for-pe/CS2103T-F13-1-TutorReach.jar)
+WARNING: Use --enable-native-access=ALL-UNNAMED to avoid a warning for callers in this module
+WARNING: Restricted methods will be blocked in a future release unless native access is enabled
+
+Nov 06, 2026 6:54:19 PM seedu.address.MainApp init
+INFO: =============================[ Initializing AddressBook ]===========================
+Nov 06, 2026 6:54:19 PM seedu.address.MainApp initPrefs
+INFO: Using preference file : preferences.json
+Nov 06, 2026 6:54:19 PM seedu.address.MainApp initPrefs
+INFO: Creating new preference file preferences.json
+Nov 06, 2026 6:54:19 PM seedu.address.MainApp initModelManager
+INFO: Using data file : data/addressbook.json
+Nov 06, 2026 6:54:19 PM seedu.address.MainApp start
+INFO: Starting AddressBook V1.4
+Nov 06, 2026 6:54:19 PM seedu.address.ui.UiManager start
+INFO: Starting UI...
+WARNING: A terminally deprecated method in sun.misc.Unsafe has been called
+WARNING: sun.misc.Unsafe::allocateMemory has been called by com.sun.marlin.OffHeapArray (file:/home/dhruv/dev/NUS/2103T/files-for-pe/CS2103T-F13-1-TutorReach.jar)
+WARNING: Please consider reporting this to the maintainers of class com.sun.marlin.OffHeapArray
+WARNING: sun.misc.Unsafe::allocateMemory will be removed in a future release
+Nov 06, 2026 6:54:20 PM seedu.address.logic.LogicManager execute
+INFO: ----------------[USER COMMAND][addstudent n/Alice Tan p/91234567]
+Nov 06, 2026 6:54:20 PM seedu.address.ui.MainWindow executeCommand
+INFO: Result: New student added: Alice Tan; Phone: 91234567; Guardian: -
+COMMAND: addstudent n/Alice Tan p/91234567
+RESULT: New student added: Alice Tan; Phone: 91234567; Guardian: -
+studentListView: [Alice Tan; Phone: 91234567; Guardian: -]
+lessonListView: []
+Nov 06, 2026 6:54:21 PM seedu.address.logic.LogicManager execute
+INFO: ----------------[USER COMMAND][addlesson n/Math d/mon st/1600 et/1800]
+Nov 06, 2026 6:54:21 PM seedu.address.logic.commands.AddLessonCommand execute
+INFO: Added lesson: Math (Mon 1600-1800)
+Nov 06, 2026 6:54:21 PM seedu.address.ui.MainWindow executeCommand
+INFO: Result: New lesson added: Math (Mon 1600-1800)
+COMMAND: addlesson n/Math d/mon st/1600 et/1800
+RESULT: New lesson added: Math (Mon 1600-1800)
+studentListView: [Alice Tan; Phone: 91234567; Guardian: -]
+lessonListView: [Math (Mon 1600-1800)]
+Nov 06, 2026 6:54:21 PM seedu.address.logic.LogicManager execute
+INFO: ----------------[USER COMMAND][addlesson n/English d/mon st/1800 et/2000]
+Nov 06, 2026 6:54:21 PM seedu.address.logic.commands.AddLessonCommand execute
+INFO: Added lesson: English (Mon 1800-2000)
+Nov 06, 2026 6:54:21 PM seedu.address.ui.MainWindow executeCommand
+INFO: Result: New lesson added: English (Mon 1800-2000)
+COMMAND: addlesson n/English d/mon st/1800 et/2000
+RESULT: New lesson added: English (Mon 1800-2000)
+studentListView: [Alice Tan; Phone: 91234567; Guardian: -]
+lessonListView: [Math (Mon 1600-1800), English (Mon 1800-2000)]
+Nov 06, 2026 6:54:21 PM seedu.address.logic.LogicManager execute
+INFO: ----------------[USER COMMAND][enrol s/1 l/1]
+Nov 06, 2026 6:54:22 PM seedu.address.ui.MainWindow executeCommand
+INFO: Result: Enrolled Alice Tan in Math (Mon 1600-1800)
+COMMAND: enrol s/1 l/1
+RESULT: Enrolled Alice Tan in Math (Mon 1600-1800)
+studentListView: [Alice Tan; Phone: 91234567; Guardian: -]
+lessonListView: [Math (Mon 1600-1800), English (Mon 1800-2000)]
+Nov 06, 2026 6:54:22 PM seedu.address.logic.LogicManager execute
+INFO: ----------------[USER COMMAND][listlessons]
+Nov 06, 2026 6:54:22 PM seedu.address.ui.MainWindow executeCommand
+INFO: Result: Listed all lessons.
+COMMAND: listlessons
+RESULT: Listed all lessons.
+studentListView: [Alice Tan; Phone: 91234567; Guardian: -]
+lessonListView: [Math (Mon 1600-1800), English (Mon 1800-2000)]
+Nov 06, 2026 6:54:22 PM seedu.address.logic.LogicManager execute
+INFO: ----------------[USER COMMAND][editlesson 1 d/tue]
+Nov 06, 2026 6:54:22 PM seedu.address.logic.commands.EditLessonCommand execute
+INFO: Edited lesson with ID: 71974f45-5ca9-43c5-95ba-9fc7e9e71967, clashing with 0 lesson(s)
+Nov 06, 2026 6:54:22 PM seedu.address.ui.MainWindow executeCommand
+INFO: Result: Edited lesson: Math (Tue 1600-1800)
+COMMAND: editlesson 1 d/tue
+RESULT: Edited lesson: Math (Tue 1600-1800)
+studentListView: [Alice Tan; Phone: 91234567; Guardian: -]
+lessonListView: [English (Mon 1800-2000), Math (Tue 1600-1800)]
+Nov 06, 2026 6:54:22 PM seedu.address.logic.LogicManager execute
+INFO: ----------------[USER COMMAND][editlesson 1 st/2200 et/0100]
+Nov 06, 2026 6:54:22 PM seedu.address.logic.commands.EditLessonCommand execute
+INFO: Edited lesson with ID: 57d5d77f-83e7-4a9d-b7b5-edd193df063e, clashing with 0 lesson(s)
+Nov 06, 2026 6:54:22 PM seedu.address.ui.MainWindow executeCommand
+INFO: Result: Edited lesson: English (Mon 2200-0100) (next day)
+COMMAND: editlesson 1 st/2200 et/0100
+RESULT: Edited lesson: English (Mon 2200-0100) (next day)
+studentListView: [Alice Tan; Phone: 91234567; Guardian: -]
+lessonListView: [English (Mon 2200-0100), Math (Tue 1600-1800)]
+Nov 06, 2026 6:54:23 PM seedu.address.logic.LogicManager execute
+INFO: ----------------[USER COMMAND][editlesson 1 d/tue]
+Nov 06, 2026 6:54:23 PM seedu.address.logic.commands.EditLessonCommand execute
+INFO: Edited lesson with ID: 57d5d77f-83e7-4a9d-b7b5-edd193df063e, clashing with 0 lesson(s)
+Nov 06, 2026 6:54:23 PM seedu.address.ui.MainWindow executeCommand
+INFO: Result: Edited lesson: English (Tue 2200-0100) (next day)
+COMMAND: editlesson 1 d/tue
+RESULT: Edited lesson: English (Tue 2200-0100) (next day)
+studentListView: [Alice Tan; Phone: 91234567; Guardian: -]
+lessonListView: [Math (Tue 1600-1800), English (Tue 2200-0100)]
+Nov 06, 2026 6:54:23 PM seedu.address.MainApp stop
+INFO: ============================ [ Stopping AddressBook ] =============================

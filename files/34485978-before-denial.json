@@ -1,0 +1,25 @@
+{
+  "persons" : [ {
+    "name" : "Project Alice",
+    "phone" : "91234567",
+    "email" : "",
+    "address" : "NUS",
+    "major" : "Computer Science",
+    "graduationYear" : "2027",
+    "tags" : [ ],
+    "notes" : "Meet Friday at 3pm",
+    "favourite" : false,
+    "lastUpdated" : "2026-11-06"
+  }, {
+    "name" : "Project Bob",
+    "phone" : "",
+    "email" : "bob@example.com",
+    "address" : "UTown",
+    "major" : "",
+    "graduationYear" : "",
+    "tags" : [ "Project" ],
+    "notes" : "",
+    "favourite" : false,
+    "lastUpdated" : "2026-11-06"
+  } ]
+}

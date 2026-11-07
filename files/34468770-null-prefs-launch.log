@@ -1,0 +1,31 @@
+Nov 06, 2026 3:13:45 PM seedu.address.Main main
+WARNING: The warnings about a 'restricted method in java.lang.System' and 'enabling native access' appearing below (if any) can be ignored.
+WARNING: A restricted method in java.lang.System has been called
+WARNING: java.lang.System::load has been called by com.sun.glass.utils.NativeLibLoader in module javafx.graphics (jrt:/javafx.graphics)
+WARNING: Use --enable-native-access=javafx.graphics to avoid a warning for callers in this module
+WARNING: Restricted methods will be blocked in a future release unless native access is enabled
+
+Nov 06, 2026 3:13:45 PM seedu.address.MainApp init
+INFO: =============================[ Initializing TutorContacts ]==========================
+Nov 06, 2026 3:13:45 PM seedu.address.MainApp initPrefs
+INFO: Using preference file : /Users/phyu34199/Desktop/test/pe-testing/deep/preferences.json
+Nov 06, 2026 3:13:45 PM seedu.address.commons.util.JsonUtil readJsonFile
+INFO: JSON file /Users/phyu34199/Desktop/test/pe-testing/deep/preferences.json found.
+Nov 06, 2026 3:13:45 PM seedu.address.MainApp initModelManager
+INFO: Using data file : /Users/phyu34199/Desktop/test/pe-testing/deep/data/tutorcontacts.json
+Nov 06, 2026 3:13:45 PM seedu.address.commons.util.JsonUtil readJsonFile
+INFO: JSON file /Users/phyu34199/Desktop/test/pe-testing/deep/data/tutorcontacts.json found.
+Exception in Application init method
+Exception in thread "main" java.lang.RuntimeException: Exception in Application init method
+	at javafx.graphics/com.sun.javafx.application.LauncherImpl.launchApplication1(LauncherImpl.java:894)
+	at javafx.graphics/com.sun.javafx.application.LauncherImpl.lambda$launchApplication$0(LauncherImpl.java:202)
+	at java.base/java.lang.Thread.run(Thread.java:1474)
+Caused by: java.lang.NullPointerException
+	at java.base/java.util.Objects.requireNonNull(Objects.java:220)
+	at seedu.address.model.UserPrefs.setGuiSettings(UserPrefs.java:34)
+	at seedu.address.model.UserPrefs.<init>(UserPrefs.java:26)
+	at seedu.address.model.ModelManager.<init>(ModelManager.java:43)
+	at seedu.address.MainApp.initModelManager(MainApp.java:164)
+	at seedu.address.MainApp.init(MainApp.java:102)
+	at javafx.graphics/com.sun.javafx.application.LauncherImpl.launchApplication1(LauncherImpl.java:823)
+	... 2 more

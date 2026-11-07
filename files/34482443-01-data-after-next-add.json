@@ -1,0 +1,21 @@
+{
+  "persons" : [ ],
+  "students" : [ {
+    "studentId" : "4838c92b-1dda-4bc5-bc8e-45120c997bc4",
+    "name" : "Alicia Lim",
+    "parentPhone" : "9123 4567",
+    "parentEmail" : null,
+    "subject" : "Mathematics",
+    "currentLevel" : "Secondary 3",
+    "sessionNotes" : [ ]
+  }, {
+    "studentId" : "0e2ba19a-fbca-44ea-aa33-83a3137fe9b8",
+    "name" : "Dev Patel",
+    "parentPhone" : "91234567",
+    "parentEmail" : null,
+    "subject" : "English",
+    "currentLevel" : "JC 1",
+    "sessionNotes" : [ ]
+  } ],
+  "unknownFields" : [ ]
+}

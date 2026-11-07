@@ -1,0 +1,44 @@
+Original malformed input (two root objects):
+{"persons":[{"name":"Alice Tan","contexts":["Class"]}]} {"persons":[{"name":"Bob Lee","contexts":["Class"]}]}
+
+Recorded startup and save output:
+Nov 06, 2026 8:08:45 PM seedu.address.MainApp init
+INFO: =============================[ Initializing UniContacts ]===========================
+Nov 06, 2026 8:08:45 PM seedu.address.MainApp initPrefs
+INFO: Using preference file : preferences.json
+Nov 06, 2026 8:08:46 PM seedu.address.MainApp initPrefs
+INFO: Creating new preference file preferences.json
+Nov 06, 2026 8:08:54 PM seedu.address.MainApp initModelManager
+INFO: Using data file : data\unicontacts.json
+Nov 06, 2026 8:08:54 PM seedu.address.commons.util.JsonUtil readJsonFile
+INFO: JSON file data\unicontacts.json found.
+STARTUP PERSONS: [seedu.address.model.person.Person{name=Alice Tan, phone=null, email=null, contexts=[Class], alias=null, introducer=null, note=null, archived=false}]
+FILES AFTER START: [unicontacts.json]
+Nov 06, 2026 8:08:54 PM seedu.address.logic.LogicManager execute
+INFO: ----------------[USER COMMAND][add n/Carol Lim c/Class]
+COMMAND RESULT: New person added: Carol Lim; Contexts: [Class]
+Nov 06, 2026 8:08:54 PM seedu.address.MainApp stop
+INFO: ============================ [ Stopping UniContacts ] =============================
+
+Saved file:
+{
+  "persons" : [ {
+    "name" : "Alice Tan",
+    "phone" : null,
+    "email" : null,
+    "contexts" : [ "Class" ],
+    "alias" : null,
+    "introducer" : null,
+    "note" : null,
+    "archived" : false
+  }, {
+    "name" : "Carol Lim",
+    "phone" : null,
+    "email" : null,
+    "contexts" : [ "Class" ],
+    "alias" : null,
+    "introducer" : null,
+    "note" : null,
+    "archived" : false
+  } ]
+}

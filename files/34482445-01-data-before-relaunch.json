@@ -1,0 +1,19 @@
+{
+  "persons" : [ ],
+  "students" : [ {
+    "studentId" : "4838c92b-1dda-4bc5-bc8e-45120c997bc4",
+    "name" : "Alicia Lim",
+    "parentPhone" : "9123 4567",
+    "parentEmail" : null,
+    "subject" : "Mathematics",
+    "currentLevel" : "Secondary 3",
+    "sessionnotes" : [ {
+      "recordedAt" : "2026-11-06T21:13:23+08:00",
+      "text" : "Revise negative coefficients next lesson."
+    }, {
+      "recordedAt" : "2026-11-06T21:13:23+08:00",
+      "text" : "Reviewed factorisation."
+    } ]
+  } ],
+  "unknownFields" : [ ]
+}

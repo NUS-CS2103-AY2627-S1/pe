@@ -1,0 +1,32 @@
+Recorded file-location test (TEST_ROOT replaces the absolute disposable test root):
+{
+  "JarHome": "TEST_ROOT\\jar-home",
+  "WorkingDirectory": "TEST_ROOT\\outside-working",
+  "AppData": "TEST_ROOT\\outside-working\\data\\unicontacts.json",
+  "Preferences": "TEST_ROOT\\outside-working\\preferences.json",
+  "DataInsideJarHomeExists": false,
+  "JarSHA256": "5123B07D957C3AF15A1312D4BAD02DA0DEE1F71F0DDB5C5D7639D822AC363BAD"
+}
+
+Contact file saved in outside-working/data/unicontacts.json:
+{
+  "persons" : [ {
+    "name" : "Outside Folder Contact",
+    "phone" : null,
+    "email" : null,
+    "contexts" : [ "External" ],
+    "alias" : null,
+    "introducer" : null,
+    "note" : null,
+    "archived" : false
+  }, {
+    "name" : "App Saved Contact",
+    "phone" : null,
+    "email" : null,
+    "contexts" : [ "External" ],
+    "alias" : null,
+    "introducer" : null,
+    "note" : null,
+    "archived" : false
+  } ]
+}

@@ -1,0 +1,37 @@
+COMMAND=['C:/Program Files/Java/jdk-25.0.4/bin/java.exe', '-Duser.home=C:\\Users\\neoki\\.codex\\visualizations\\2026\\11\\05\\01a1aaf8-0fc9-72d1-af74-9c494e9c2aee\\proptrack-pe\\runs\\stress-storage\\null-startup-replay', '-jar', 'C:\\Users\\neoki\\.codex\\visualizations\\2026\\11\\05\\01a1aaf8-0fc9-72d1-af74-9c494e9c2aee\\proptrack-pe\\PropTrack.jar']
+EXIT_CODE=1
+Nov 06, 2026 2:45:00 PM seedu.address.Main main
+WARNING: The warnings about a 'restricted method in java.lang.System' and 'enabling native access' appearing below (if any) can be ignored.
+Nov 06, 2026 2:45:00 PM com.sun.javafx.application.PlatformImpl startup
+WARNING: Unsupported JavaFX configuration: classes were loaded from 'unnamed module @135cf528'
+WARNING: A restricted method in java.lang.System has been called
+WARNING: java.lang.System::load has been called by com.sun.glass.utils.NativeLibLoader in an unnamed module (file:/C:/Users/neoki/.codex/visualizations/2026/11/05/01a1aaf8-0fc9-72d1-af74-9c494e9c2aee/proptrack-pe/PropTrack.jar)
+WARNING: Use --enable-native-access=ALL-UNNAMED to avoid a warning for callers in this module
+WARNING: Restricted methods will be blocked in a future release unless native access is enabled
+
+Nov 06, 2026 2:45:01 PM seedu.address.MainApp init
+INFO: =============================[ Initializing AddressBook ]===========================
+Nov 06, 2026 2:45:01 PM seedu.address.MainApp initPrefs
+INFO: Using the application preferences file.
+Nov 06, 2026 2:45:01 PM seedu.address.MainApp initPrefs
+INFO: Creating a new application preferences file.
+Nov 06, 2026 2:45:01 PM seedu.address.MainApp initModelManager
+INFO: Using the application data file.
+Nov 06, 2026 2:45:01 PM seedu.address.commons.util.JsonUtil readJsonFile
+INFO: Application data file found.
+Exception in Application init method
+Exception in thread "main" java.lang.RuntimeException: Exception in Application init method
+	at com.sun.javafx.application.LauncherImpl.launchApplication1(LauncherImpl.java:896)
+	at com.sun.javafx.application.LauncherImpl.lambda$launchApplication$2(LauncherImpl.java:196)
+	at java.base/java.lang.Thread.run(Thread.java:1474)
+Caused by: java.lang.NullPointerException
+	at java.base/java.util.Objects.requireNonNull(Objects.java:220)
+	at java.base/java.util.Optional.of(Optional.java:113)
+	at seedu.address.commons.util.JsonUtil.readJsonFile(JsonUtil.java:69)
+	at seedu.address.storage.JsonAddressBookStorage.readAddressBook(JsonAddressBookStorage.java:53)
+	at seedu.address.storage.JsonAddressBookStorage.readAddressBook(JsonAddressBookStorage.java:41)
+	at seedu.address.storage.StorageManager.readAddressBook(StorageManager.java:59)
+	at seedu.address.MainApp.initModelManager(MainApp.java:77)
+	at seedu.address.MainApp.init(MainApp.java:59)
+	at com.sun.javafx.application.LauncherImpl.launchApplication1(LauncherImpl.java:825)
+	... 2 more
